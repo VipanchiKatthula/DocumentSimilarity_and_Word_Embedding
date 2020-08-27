@@ -5,7 +5,7 @@ Finding Similarity between documents using Jaccard Similarity and including Part
 ## TECHNOLOGIES
 Project is created with:
 
-Python - **NLTK, Collections, sklearn, numpy, pandas, matplotlib.pyplot, glove**
+* Python - **NLTK, Collections, sklearn, numpy, pandas, matplotlib.pyplot, glove**
 
 ## DATA
 The data for the task at hand is webscraped from the three different articles which can be found [here](https://github.com/VipanchiKatthula/DocumentSimilarity_With_POSTags/tree/master/Data):
