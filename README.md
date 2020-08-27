@@ -10,12 +10,17 @@ The data for the task at hand is webscraped from the three different articles:
 
 ## Analysis
 We start with the data cleaning:
+
 a) Removing the punctuations (not all of them, as we want to capture the correct POS tags)
+![GitHub Logo](/images/text_cleaning.PNG)
 
 b) Tokenize the words
+![GitHub Logo](/images/tokenize.PNG)
 
 c) Capturing the POS tags of the words using **tag library from NLTK**
+![GitHub Logo](/images/postag.PNG)
 
 d) Get the counts of the POS tags to use as the medium to capture the similarity between the documents
+![GitHub Logo](/images/counting.PNG)
 
 e) 
