@@ -2,6 +2,11 @@
 ## OBJECTIVE
 Finding Similarity between documents using Jaccard Similarity and including Parts Of Speech(POS) Tags of the words in the model to better find the synchronous relationship between documents 
 
+## TECHNOLOGIES
+Project is created with:
+
+Python - **NLTK, Collections, sklearn, numpy, pandas, matplotlib.pyplot, glove**
+
 ## DATA
 The data for the task at hand is webscraped from the three different articles which can be found [here](https://github.com/VipanchiKatthula/DocumentSimilarity_With_POSTags/tree/master/Data):
 1. **Wikipedia page**: We screaped the data from wikipedia page of UIC. So, as one can expect, the text in this document contains all the programs offered by the university, the history of the institution, college fees, alumni and also the clubs present at UIC.
